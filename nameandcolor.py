@@ -1,6 +1,6 @@
 # Get user input
 name = input("What is your name? ")
-age = input("What is your favrotie color? ")
+color = input("What is your favrotie color? ")
 
 # Display greeting
 print(f"Hello, {name}!")
